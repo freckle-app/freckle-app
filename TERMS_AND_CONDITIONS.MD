@@ -8,7 +8,7 @@ By downloading, installing, or using the Freckle mobile application ("the App"),
 
 ## About Freckle
 
-Freckle is a personal skin blemish tracking application designed to help users monitor changes in skin blemishes over time through photo documentation. The App is provided by [Your Name/Company] ("we", "us", or "our").
+Freckle is a personal skin blemish tracking application designed to help users monitor changes in skin blemishes over time through photo documentation. The App is provided by JUNIPER TREE CONSULTING LLC, doing business as Freckle ("we", "us", or "our").
 
 ## Acceptance of Terms
 
